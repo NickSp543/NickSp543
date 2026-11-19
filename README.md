@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**NickSp543/NickSp543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4th-year **Software Engineering** student at **Bar-Ilan University**, focused on backend, systems and security.
+Looking for a student position.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Stack |
+|---|---|---|
+| [Marco](https://github.com/NickSp543/Marco-traveling) | Multi-agent AI travel planner; I built live restaurant/event discovery, the map-synced timeline, and red-teamed the agent for prompt injection | Python, FastAPI, LangGraph, React |
+| [Cloud Drive](https://github.com/NickSp543/Drive) | Google Drive clone: multithreaded C++ storage server behind a Node.js REST API, with React and React Native clients | C++, Node.js, MongoDB, Docker |
+| [Schedulify](https://github.com/NickSp543/Schedulify) | Desktop course-schedule generator with an AI filter bot; I added multi-semester planning, Hebrew RTL and Excel export | C++, Qt 6 / QML |
+
+## Tech
+
+C · C++ · Python · Java · JavaScript · Node.js · FastAPI · MongoDB · Linux · TCP/IP · Docker · STM32
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nick-sokolovsky-0241ab301/)
